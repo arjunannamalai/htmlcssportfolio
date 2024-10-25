@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+h1, h2, h3 {
+    color: #333;
+}
+a {
+    color: #0077b5;
+    text-decoration: none;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+.skills, .projects, .certifications, .interests {
+    list-style-type: none;
+    padding: 0;
+}
+.skills li, .projects li, .certifications li, .interests li {
+    margin-bottom: 10px;
+}
